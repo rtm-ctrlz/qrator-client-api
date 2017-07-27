@@ -3,7 +3,7 @@
     "description": "curl-based client to access Qrator.API",
     "type": "library",
     "require": {
-        "php": "7.0",
+        "php": "^7.0",
         "ext-curl": "^7.1",
         "ext-json": "^1.5"
     },
