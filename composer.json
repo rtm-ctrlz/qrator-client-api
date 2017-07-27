@@ -1,0 +1,22 @@
+{
+    "name": "qrator/api.client",
+    "description": "curl-based client to access Qrator.API",
+    "type": "library",
+    "require": {
+        "php": "7.0",
+        "ext-curl": "^7.1",
+        "ext-json": "^1.5"
+    },
+    "require-dev": {
+        "php": "^7.1",
+        "ext-curl": "^7.1",
+        "ext-json": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Qrator WebDev",
+            "email": "web@qrator.net"
+        }
+    ],
+    "minimum-stability": "dev"
+}
